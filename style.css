@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.image{
+    background-image: url(/images/n.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.serah{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+} 
+.A{
+    text-align: center;
+    color: black;
+}  
+.B{
+    background-color: yellowgreen;
+
+}
+.C{
+    text-align: center;
+
+}
+.D{
+    background-color: gray;
+}
+.E{
+    width: 30%;
+    height: 20%;
+    border: solid;
+
+}
+.F{
+    width: 50%;
+    height: 50%;
+
+}
+.G{
+    width: 30%;
+    height: 20%;
+    border: solid;
+
+}
+.H{
+    width: 50%;
+    height: 50%;
+
+
+}
+.I{
+    width: 30%;
+    height: 20%;
+    border: solid;
+
+
+}
+.J{
+    width: 50%;
+    height: 50%;
+
+}
+.K{
+    display: flex;
+}
+.L{
+    text-align: center;
+}
+.N{
+    width: 50%;
+    height: 50%;
+
+
+}
+.M{
+    width: 30%;
+    height: 50%;
+    border: solid;
+
+}
+.P{
+    width: 50%;
+    height: 50%;
+
+}
+.O{
+    width: 30%;
+    height: 50%;
+    border: solid;
+
+}
+.R{
+
+    width: 50%;
+    height: 50%;
+
+}
+.Q{
+    width: 30%;
+    height: 50%;
+    border: solid;
+
+}
+.S{
+    display: flex;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    border: solid;
+    background-color: cadetblue;
+}
+li{
+    list-style-type: none;
+}
+.e{
+    background-color: pink;
+}
+.f{
+    background-color: pink;
+
+}
+.g{
+    background-color: pink;
+
+}
+.l{
+    background-color: grey;
+}
+.v{
+}
